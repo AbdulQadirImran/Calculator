@@ -37,6 +37,7 @@ body {
   color: #000e1a;
   pointer-events: none;
 }
+
 .buttons {
   display: grid;
   grid-gap: 10px;
