@@ -43,6 +43,7 @@ body {
   grid-gap: 10px;
   grid-template-columns: repeat(4, 1fr);
 }
+
 .buttons button {
   padding: 10px;
   border-radius: 6px;
