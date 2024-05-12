@@ -52,6 +52,7 @@ body {
   cursor: pointer;
   background-color: #eee;
 }
+
 .buttons button:active {
   transform: scale(0.99);
 }
